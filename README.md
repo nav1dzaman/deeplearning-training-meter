@@ -1,4 +1,4 @@
-#Deep Learning Training Meter
+Deep Learning Training Meter
 
 Copy repository
 npm i 
